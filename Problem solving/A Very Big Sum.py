@@ -1,7 +1,4 @@
 
-```python
-try this once
-```
 #A Very Big Sum
 
 #!/bin/python3
